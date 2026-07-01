@@ -1,4 +1,4 @@
-<img width="200" height="162" alt="image" src="https://github.com/user-attachments/assets/7e6fbddc-6d45-48bb-bc77-b9abf0cb1add" /># 👋 Hello, I'm Julia
+# Hello, I'm Julia
 
 Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
 
