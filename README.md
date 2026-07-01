@@ -18,7 +18,7 @@
 
 
 
-## Hi, I'm Julia (＾▽＾)
+## Hi, I'm Julia
 
 
 
