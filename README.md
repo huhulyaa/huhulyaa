@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Julia
+<img width="200" height="162" alt="image" src="https://github.com/user-attachments/assets/7e6fbddc-6d45-48bb-bc77-b9abf0cb1add" /># 👋 Hello, I'm Julia
 
 Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
 
 <p align="center">
-<img src="https://imgs.search.brave.com/M0DBvRCkiXqIMF84rG82lyzKzY8GQwbZCSwzzJCuYw4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9o/YXBweS1jYXQtd29y/a2luZy1vbi1jb21w/dXRlci1jYXJ0b29u/LWMyY2luenYycmlq/d2YzZW4uZ2lm.gif" />
+<img src="https://imgs.search.brave.com/uqXixFr5sPze64v_0QqT-16JGqwd-MHPeEkHY8OusX8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/X1VBek8xRElWU2tB/QUFBbS9idWdjYXQt/Y2Fwb28ud2VicA" />
 </p>
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development, machine learning, and natural language processing, with a growing interest in generative AI and educational technology.
