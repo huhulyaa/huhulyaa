@@ -10,8 +10,6 @@ I enjoy designing and developing software that combines clean user experiences w
 
 ### Technologies
 
-## 💻 Tech Stack
-
 <table>
 <tr>
 <td valign="top">
@@ -22,7 +20,6 @@ I enjoy designing and developing software that combines clean user experiences w
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php,mysql" />
 </p>
 
-TypeScript • JavaScript • Python • Java • C# • Dart • PHP • SQL
 
 </td>
 </tr>
@@ -36,7 +33,6 @@ TypeScript • JavaScript • Python • Java • C# • Dart • PHP • SQL
 <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,vite" />
 </p>
 
-React • React Native • Flutter • Tailwind CSS
 
 </td>
 </tr>
@@ -50,7 +46,6 @@ React • React Native • Flutter • Tailwind CSS
 <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs" />
 </p>
 
-FastAPI • Laravel • REST APIs
 
 </td>
 </tr>
@@ -84,7 +79,7 @@ MySQL • PostgreSQL • NoSQL
 </tr>
 </table>
 
-### 🎯 Current Focus
+### Current Focus
 
 - Computer Vision
 - Natural Language Processing
