@@ -3,7 +3,7 @@
 Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
 
 <p align="center">
-<img src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhkcWVpazZhdnkxNGptNDB5NmlyMWlhb2Vnd3Y0Yng5d20zeWdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif"  width="200" />
 </p>
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning, with a growing interest in generative AI.
