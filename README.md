@@ -1,23 +1,18 @@
-<table>
-<tr>
-<td width="220" align="center">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhkcWVpazZhdnkxNGptNDB5NmlyMWlhb2Vnd3Y0Yng5d20zeWdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="180" />
+</p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhkcWVpazZhdnkxNGptNDB5NmlyMWlhb2Vnd3Y0Yng5d20zeWdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="180"/>
+<h1 align="center">Hi, I'm Julia (＾▽＾)</h1>
 
-</td>
-
-<td valign="middle">
-
-## Hi, I'm Julia (＾▽＾)
-
+<p align="center">
 Software Developer • IT Instructor
+</p>
 
-I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning.
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+I enjoy designing and developing software that combines clean user experiences
+with intelligent systems. My work focuses on full-stack development and
+machine learning.
+</p>
 ## Technologies
 
 **Languages**
