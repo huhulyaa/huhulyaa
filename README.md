@@ -23,8 +23,7 @@
  IT Instructor • Aspiring Software Developer
 
 
-I enjoy designing and developing software with clean user experiences and intelligent features. My work focuses on system development, with a growing interest in machine learning.
-
+I enjoy designing and developing software with clean user experiences and intelligent features.
 
 
 </td>
@@ -37,7 +36,7 @@ I enjoy designing and developing software with clean user experiences and intell
 
 ## Technologies
 
-
+Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
 **Languages**
 
