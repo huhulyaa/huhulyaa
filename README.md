@@ -18,9 +18,9 @@ I enjoy designing and developing software with clean user experiences and intell
 </tr>
 </table>
 
-## Currently Working On
+**Currently Working On:**
 
-- Developing a Fisheries Management System to support registration, monitoring, and record management in our city.
+-  A Fisheries Management System to support registration, monitoring, and record management in our city.
 
 ## Technologies
 
